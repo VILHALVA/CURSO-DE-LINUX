@@ -66,7 +66,7 @@ O Linux é um sistema operacional de código aberto e baseado no kernel Linux. O
 - ["USANDO A INTERFACE" FOI CRIADO PELO "CURSO EM VIDEO"](https://youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV&si=b2Oxhn35yQ4nNYjL)
 - ["USANDO O TERMINAL" FOI CRIADO PELO "HORA DE CODAR"](https://youtube.com/playlist?list=PLnDvRpP8BnezDTtL8lm6C-UOJZn-xzALH&si=nbJqY8_BLVJdsTRJ)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
-- [VEJA O APÊNDICE]
+- [VEJA O APÊNDICE](./APENDICE.md)
 - [VEJA A DOCUMENTAÇÃO](https://docs.kernel.org/)
 
 
